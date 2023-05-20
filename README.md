@@ -10,3 +10,6 @@ npm install
 
 npm start
    (Runs the app in the development mode.)
+   
+   
+PROJECT LINK : https://google-docs-text-editor.netlify.app/
